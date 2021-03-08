@@ -1,5 +1,5 @@
 {
-    "name": "ichavez/facturama-php-sdk",
+    "name": "ichavezrg/facturama-php-sdk",
     "description": "Facturama PHP SDK",
     "keywords": ["API", "PHP", "JSON", "Facturama"],
     "license": "MIT",
@@ -27,7 +27,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Ichavez\\": ["src/"]
+            "Facturama\\": ["src/"]
         }
     },
     "autoload-dev": {
